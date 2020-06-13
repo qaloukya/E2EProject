@@ -74,6 +74,8 @@ public class HomePage extends base {
 		data[1][0] = "restricteduser@qw.com";
 		data[1][1] = "456788";
 		data[1][2] = "Non restricted user";
+		
+		//Added some extra code//Added some more codes
 
 		return data;
 
